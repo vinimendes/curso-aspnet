@@ -1,0 +1,13 @@
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/bin/trabMasterPage.dll
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/bin/trabMasterPage.pdb
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/obj/Debug/trabMasterPage.csproj.CoreCompileInputs.cache
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/obj/Debug/trabMasterPage.dll
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/obj/Debug/trabMasterPage.pdb
+/media/vinicius/864C7F594C7F434B/Users/v/Documents/SharpDevelop Projects/trabMasterPage/trabMasterPage/obj/Debug/trabMasterPage.csprojAssemblyReference.cache
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\obj\Debug\trabMasterPage.csproj.CoreCompileInputs.cache
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\bin\trabMasterPage.dll.config
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\bin\trabMasterPage.dll
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\bin\trabMasterPage.pdb
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\obj\Debug\trabMasterPage.dll
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\obj\Debug\trabMasterPage.pdb
+C:\Users\v\Documents\SharpDevelop Projects\trabMasterPage\trabMasterPage\obj\Debug\trabMasterPage.csprojAssemblyReference.cache
