@@ -32,15 +32,22 @@
         <a class="nav-link" href="Default.aspx">Início <span class="sr-only">(Página atual)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="pesqServicos.aspx">Pesquisa</a>
+          <asp:HyperLink class="nav-link" ID="linkServ" Visible="false" NavigateUrl="~/pesqServicos.aspx" runat="server">Pesquisa</asp:HyperLink>
+        
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="novoServico.aspx">Serviços</a>
+          <asp:HyperLink class="nav-link" ID="linkNovo" Visible="false" NavigateUrl="~/novoServico.aspx" runat="server">Serviços</asp:HyperLink>
+        
       </li>
     </ul>
     <div id="textLogin">
       <span  class="navbar-text">
-      <a href="login.aspx">Login</a>
+          <asp:HyperLink ID="linkLogin" NavigateUrl="~/login.aspx" Visible="True" runat="server">Login</asp:HyperLink>
+    </span>
+    </div>
+      <div id="textLogoff">
+      <span  class="navbar-text">
+          <asp:HyperLink ID="linkLogoff"  NavigateUrl="~/logoff.aspx" runat="server" Visible="False">Sair</asp:HyperLink>
     </span>
     </div>
   </div>
@@ -75,7 +82,10 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+<div class="col-md-12 container-fluid">
     
+    <asp:Label ID="lblNome" Visible="false" runat="server" Text=""></asp:Label>
+</div>
         
     <asp:ContentPlaceHolder ID="conteudoCentral" runat="server">
             

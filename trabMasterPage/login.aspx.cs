@@ -38,7 +38,7 @@ namespace trabMasterPage
             if(qtde == 1)
             {
                 Session["logado"] = 1;
-                Response.Redirect("~/pesqServicos.aspx");
+                Response.Redirect("~/Default.aspx");
             } else
             {
                 lblIncorre.Text = "O login ou a senha está incorreta";

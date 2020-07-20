@@ -36,6 +36,17 @@ header nav{
 	padding: 8px;
 }
 
+#textLogoff a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 10px;
+	border: solid rgb(121, 167, 231) 1px;
+	border-style: solid;
+	padding: 8px;
+}
+
 #containerManutencao {
 	margin-top: 5%;
 }

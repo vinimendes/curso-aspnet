@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="login.aspx" />
+    <Content Include="logoff.aspx" />
     <Content Include="novoServico.aspx" />
     <Content Include="pesqServicos.aspx" />
     <Content Include="Web.config" />
@@ -82,6 +83,13 @@
     </Compile>
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logoff.aspx.cs">
+      <DependentUpon>logoff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="logoff.aspx.designer.cs">
+      <DependentUpon>logoff.aspx</DependentUpon>
     </Compile>
     <Compile Include="Manipulacao.cs" />
     <Compile Include="novoServico.aspx.cs">
